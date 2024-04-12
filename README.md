@@ -1,4 +1,4 @@
-# NithyaK
+# NithyaSanthoshiniK
 # Hi there, I'm Nithya Santhoshini K! 👋
 
 I'm a passionate and versatile computer science graduate with a strong foundation in data analytics, machine learning, and software development. Eager to embark on a rewarding career journey in the tech industry, I bring a blend of theoretical knowledge and practical experience gained through intensive training and hands-on projects.
