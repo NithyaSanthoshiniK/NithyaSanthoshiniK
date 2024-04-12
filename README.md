@@ -21,22 +21,22 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 ## Projects
 
-### 1. Implementation of Star Schema based Sales Analysis using Power BI
+# 1. Implementation of Star Schema based Sales Analysis using Power BI
 - Analyzed sales data using Power BI, enabling actionable insights on top-selling products and regional trends.
 
-### 2. SQL PROJECT: Library Database Analysis
+# 2. SQL PROJECT: Library Database Analysis
 - Conducted thorough library database analysis in SQL, demonstrating adeptness in schema design and data manipulation.
 
-### 3. S&P 500 Analysis: Web Scraping and Data Analysis Project
+# 3. S&P 500 Analysis: Web Scraping and Data Analysis Project
 - Extracted key company data for trend identification from the S&P 500 using web scraping and exploratory data analysis.Conducted comprehensive univariate and bivariate analyses to uncover trends and correlations, visualizing insights with interactive Power BI dashboards.
 
-### 4. Adidas Sales Data Analysis using Power BI
+# 4. Adidas Sales Data Analysis using Power BI
 - Analyzed Adidas sales data using Power BI Desktop, uncovering insights on gender preferences, geographic sales patterns, and peak sales periods. Provided actionable insights for strategic decisions.
 
-### 5. Cyber Attack Detection in Network using ML
+# 5. Cyber Attack Detection in Network using ML
 - Developed an advanced machine learning-based system to detect and mitigate cyber-attacks in network environments. Implemented algorithms to analyze network traffic patterns and provide real-time alerts.
 
-### 6. Student Result Management System using Python
+# 6. Student Result Management System using Python
 - Developed a GUI for a student result management system using Python and Tkinter, integrated with an Azure database. Enabled efficient management of student results with personalized reports and secure user login.
 
 ## Accomplishments
