@@ -24,7 +24,7 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 ### 1. [Implementation of Star Schema based Sales Analysis using Power BI](https://github.com/NithyaSanthoshiniK/PowerBIProject1)
 - Analyzed sales data using Power BI, enabling actionable insights on top-selling products and regional trends.
 
-### 2. [SQL PROJECT: Library Database Analysis](https://github.com/NithyaSanthoshiniK/SQL-Library-Database-Analysis-Project)
+### 2. [SQL Library Database Analysis Project](https://github.com/NithyaSanthoshiniK/SQL-Library-Database-Analysis-Project)
 - Conducted thorough library database analysis in SQL, demonstrating adeptness in schema design and data manipulation.
 
 ### 3. [S&P 500 Analysis: Web Scraping and Data Analysis Project](https://github.com/NithyaSanthoshiniK/S-P-500)
