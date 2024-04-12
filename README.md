@@ -52,7 +52,7 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 - Trainee, Data Science and AI at Innomatics Research Labs
 - Bachelor of Technology in Computer Science from Jawaharlal Nehru Technological University Hyderabad(JNTUH)
-  - CGPA: [7.54/10]
+
 
 ## Get in Touch
 
