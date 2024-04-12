@@ -33,10 +33,7 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 ### 4. Adidas Sales Data Analysis using Power BI
 - Analyzed Adidas sales data using Power BI Desktop, uncovering insights on gender preferences, geographic sales patterns, and peak sales periods. Provided actionable insights for strategic decisions.
 
-### 5. Cyber Attack Detection in Network using ML
-- Developed an advanced machine learning-based system to detect and mitigate cyber-attacks in network environments. Implemented algorithms to analyze network traffic patterns and provide real-time alerts.
-
-### 6. Student Result Management System using Python
+### 5. Student Result Management System using Python
 - Developed a GUI for a student result management system using Python and Tkinter, integrated with an Azure database. Enabled efficient management of student results with personalized reports and secure user login.
 
 ## Accomplishments
