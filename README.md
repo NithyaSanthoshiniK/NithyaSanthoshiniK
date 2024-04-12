@@ -21,20 +21,25 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 ## Projects
 
-### 1. Implementation of Star Schema based Sales Analysis using Power BI
+# Portfolio
+
+## Projects
+
+### 1. [Implementation of Star Schema based Sales Analysis using Power BI](NithyaSanthoshiniK/PowerBIProject1)
 - Analyzed sales data using Power BI, enabling actionable insights on top-selling products and regional trends.
 
-### 2. SQL PROJECT: Library Database Analysis
+### 2. [SQL PROJECT: Library Database Analysis](https://github.com/NithyaSanthoshiniK/SQL-Library-Database-Analysis-Project)
 - Conducted thorough library database analysis in SQL, demonstrating adeptness in schema design and data manipulation.
 
-### 3. S&P 500 Analysis: Web Scraping and Data Analysis Project
-- Extracted key company data for trend identification from the S&P 500 using web scraping and exploratory data analysis.Conducted comprehensive univariate and bivariate analyses to uncover trends and correlations, visualizing insights with interactive Power BI dashboards.
+### 3. [S&P 500 Analysis: Web Scraping and Data Analysis Project](NithyaSanthoshiniK/S-P-500)
+- Extracted key company data for trend identification from the S&P 500 using web scraping and exploratory data analysis. Conducted comprehensive univariate and bivariate analyses to uncover trends and correlations, visualizing insights with interactive Power BI dashboards.
 
-### 4. Adidas Sales Data Analysis using Power BI
+### 4. [Adidas Sales Data Analysis using Power BI](NithyaSanthoshiniK/Adidas-PowerBI-Project)
 - Analyzed Adidas sales data using Power BI Desktop, uncovering insights on gender preferences, geographic sales patterns, and peak sales periods. Provided actionable insights for strategic decisions.
 
-### 5. Student Result Management System using Python
+### 5. [Student Result Management System using Python](https://github.com/NithyaSanthoshiniK/Student-Result-Management-System)
 - Developed a GUI for a student result management system using Python and Tkinter, integrated with an Azure database. Enabled efficient management of student results with personalized reports and secure user login.
+
 
 ## Accomplishments
 
