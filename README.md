@@ -21,7 +21,7 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 ## Projects
 
-# 1. Implementation of Star Schema based Sales Analysis using Power BI
+#### 1. Implementation of Star Schema based Sales Analysis using Power BI
 - Analyzed sales data using Power BI, enabling actionable insights on top-selling products and regional trends.
 
 # 2. SQL PROJECT: Library Database Analysis
