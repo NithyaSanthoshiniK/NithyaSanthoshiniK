@@ -58,6 +58,6 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 - 📧 Email: [nithya21966@gmail.com]
 - 🔗 LinkedIn: [https://www.linkedin.com/in/nithya21966/]
-- 🌐 Portfolio: [Your Portfolio Link] coming soon
+- 🌐 Portfolio: [https://nithyask.my.canva.site/portfolio]
 
 Feel free to reach out to me for any inquiries, collaboration opportunities, or just to say hi! 😊
