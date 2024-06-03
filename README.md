@@ -21,19 +21,27 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 ## Projects
 
-### 1. [Implementation of Star Schema based Sales Analysis using Power BI](https://github.com/NithyaSanthoshiniK/PowerBIProject1)
+### 1. [Machine Learning Projects](https://github.com/NithyaSanthoshiniK/Machine-Learning-Projects)
+This repository contains various machine learning projects I have worked on. 
+- **Diamond Case Study**: Analyzed diamond data to uncover insights related to pricing, quality, and other attributes.
+- **Image Manipulation using PIL**: Implemented various image manipulation techniques using the Python Imaging Library (PIL).
+- **Iris Case Study**: Performed classification analysis on the Iris dataset, a classic dataset used for machine learning algorithms.
+- **MNIST Handwritten Digit Recognition**: Implemented handwritten digit recognition using the MNIST dataset.
+- **Sentiment Analysis using NLP**: Conducted sentiment analysis on text data using Natural Language Processing (NLP) techniques.
+
+### 2. [Implementation of Star Schema based Sales Analysis using Power BI](https://github.com/NithyaSanthoshiniK/PowerBIProject1)
 - Analyzed sales data using Power BI, enabling actionable insights on top-selling products and regional trends.
 
-### 2. [SQL Library Database Analysis Project](https://github.com/NithyaSanthoshiniK/SQL-Library-Database-Analysis-Project)
+### 3. [SQL Library Database Analysis Project](https://github.com/NithyaSanthoshiniK/SQL-Library-Database-Analysis-Project)
 - Conducted thorough library database analysis in SQL, demonstrating adeptness in schema design and data manipulation.
 
-### 3. [S&P 500 Analysis: Web Scraping and Data Analysis Project](https://github.com/NithyaSanthoshiniK/S-P-500)
+### 4. [S&P 500 Analysis: Web Scraping and Data Analysis Project](https://github.com/NithyaSanthoshiniK/S-P-500)
 - Extracted key company data for trend identification from the S&P 500 using web scraping and exploratory data analysis. Conducted comprehensive univariate and bivariate analyses to uncover trends and correlations, visualizing insights with interactive Power BI dashboards.
 
-### 4. [Adidas Sales Data Analysis using Power BI](https://github.com/NithyaSanthoshiniK/Adidas-PowerBI-Project)
+### 5. [Adidas Sales Data Analysis using Power BI](https://github.com/NithyaSanthoshiniK/Adidas-PowerBI-Project)
 - Analyzed Adidas sales data using Power BI Desktop, uncovering insights on gender preferences, geographic sales patterns, and peak sales periods. Provided actionable insights for strategic decisions.
 
-### 5. [Student Result Management System using Python](https://github.com/NithyaSanthoshiniK/Student-Result-Management-System)
+### 6. [Student Result Management System using Python](https://github.com/NithyaSanthoshiniK/Student-Result-Management-System)
 - Developed a GUI for a student result management system using Python and Tkinter, integrated with an Azure database. Enabled efficient management of student results with personalized reports and secure user login.
 
 
