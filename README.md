@@ -6,14 +6,14 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 - 💼 Currently undergoing intensive Data Science and AI training at Innomatics Research Labs.
 - 🎓 Recent graduate with a Bachelor of Technology in Computer Science.
-- 🔍 Proficient in Python, SQL, and machine learning, with expertise in Generative AI.
+- 🔍 Proficient in Python, SQL, and machine learning.
 - 💻 Skilled in software development, cloud engineering, and advanced data analysis.
 - 🌱 Committed to continuous learning and staying updated with the latest technologies and trends.
 
 ## Skills
 
 - Programming Languages: Python, SQL
-- Tools & Technologies: Power BI, PySpark, Azure Databricks, Azure Data Factory
+- Tools & Technologies: Power BI
 - Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Deep Learning
 - Databases: MySQL
 - Data Analysis: Statistical Analysis, Data Visualization, EDA
