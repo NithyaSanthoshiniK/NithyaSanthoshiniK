@@ -23,6 +23,8 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 ### 1. [Machine Learning Projects](https://github.com/NithyaSanthoshiniK/Machine-Learning-Projects)
 This repository contains various machine learning projects I have worked on. 
+- **Medical Insurace Cost Prediction**: In-depth analysis predicting medical costs using insurance.csv: data loading, EDA, visualizations, and model 
+  comparison (Random Forest Regressor with lowest MAE). Accurate predictions based on demographics and lifestyle. Explore the notebook: 
 - **Diamond Case Study**: Analyzed diamond data to uncover insights related to pricing, quality, and other attributes.
 - **Image Manipulation using PIL**: Implemented various image manipulation techniques using the Python Imaging Library (PIL).
 - **Iris Case Study**: Performed classification analysis on the Iris dataset, a classic dataset used for machine learning algorithms.
