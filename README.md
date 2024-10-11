@@ -12,17 +12,25 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 ## Skills
 
-- Programming Languages: Python, SQL
-- Tools & Technologies: Power BI
-- Machine Learning: Supervised and Unsupervised Learning, Model Evaluation, Deep Learning
-- Databases: MySQL
-- Data Analysis: Statistical Analysis, Data Visualization, EDA
-- Cloud Computing: Google Cloud, Azure
+- Data Analysis: Data Analysis, Data Interpretation, Data Visualization, Data Manipulation, Statistical Analysis, Data Quality and Cleaning, Exploratory Data Analysis (EDA), Predictive Analytics, Feature Engineering
+- Technical Skills: SQL Proficiency, MySQL, Python, Java, C, C++, Advanced Excel
+- Database Management: Database Management Systems (DBMS), OLTP/OLAP, ETL Processes, Data Modeling, Data Warehousing
+- Machine Learning & AI: Supervised Learning, Unsupervised Learning, Model Evaluation, Deep Learning, Image Processing, Natural Language Processing (NLP), Text Mining, TfidfVectorizer, Neural networks - ANN, CNN
+- Business Intelligence: Business Intelligence (BI) Tools, Power BI, Power BI Query Editor
+- Development and Integration: APIs, Data Integration, Software Development Life Cycle (SDLC), Object-Oriented Programming (OOP), Computer Networks
+- Cloud Platforms: Google Cloud, Azure
+- Development Environments: Anaconda, Visual Studio Code (VS Code)
 
 ## Projects
 
-### 1. [Machine Learning Projects](https://github.com/NithyaSanthoshiniK/Machine-Learning-Projects)
+### 1.[Deep Learning Projects](https://github.com/NithyaSanthoshiniK/Deep-Learning-Projects)
+This repository contains various Deep Learning projects I have worked on. 
+- **Rice Grain Classification using CNN**: Developed a Convolutional Neural Network (CNN) model to classify rice seeds into five types. Pre-processed a dataset of 75,000 images with label encoding, data augmentation, and image manipulation techniques, achieving 98% classification accuracy.
+- **Diabetes Prediction using ANN**: Developed an Artificial Neural Network (ANN) model to predict diabetes outcomes. Utilized a dataset of 25,000 records, applying feature scaling and various machine learning algorithms, achieving an accuracy of 87%. This project highlights the model's adaptability and effectiveness in addressing non-linearity in the data.
+  
+### 2. [Machine Learning Projects](https://github.com/NithyaSanthoshiniK/Machine-Learning-Projects)
 This repository contains various machine learning projects I have worked on. 
+- **Customer Churn Prediction**: Developed models to predict customer churn using various machine learning algorithms.
 - **Medical Insurace Cost Prediction**: In-depth analysis predicting medical costs using insurance.csv: data loading, EDA, visualizations, and model 
   comparison (Random Forest Regressor with lowest MAE). Accurate predictions based on demographics and lifestyle.
 - **Diamond Case Study**: Analyzed diamond data to uncover insights related to pricing, quality, and other attributes.
