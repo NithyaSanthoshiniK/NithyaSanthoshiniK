@@ -23,7 +23,7 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 ## Projects
 
-### 1.[Deep Learning Projects](https://github.com/NithyaSanthoshiniK/Deep-Learning-Projects)
+### 1. [Deep Learning Projects](https://github.com/NithyaSanthoshiniK/Deep-Learning-Projects)
 This repository contains various Deep Learning projects I have worked on. 
 - **Rice Grain Classification using CNN**: Developed a Convolutional Neural Network (CNN) model to classify rice seeds into five types. Pre-processed a dataset of 75,000 images with label encoding, data augmentation, and image manipulation techniques, achieving 98% classification accuracy.
 - **Diabetes Prediction using ANN**: Developed an Artificial Neural Network (ANN) model to predict diabetes outcomes. Utilized a dataset of 25,000 records, applying feature scaling and various machine learning algorithms, achieving an accuracy of 87%. This project highlights the model's adaptability and effectiveness in addressing non-linearity in the data.
