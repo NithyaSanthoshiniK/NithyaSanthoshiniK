@@ -12,14 +12,14 @@ I'm a passionate and versatile computer science graduate with a strong foundatio
 
 ## Skills
 
-- Data Analysis: Data Analysis, Data Interpretation, Data Visualization, Data Manipulation, Statistical Analysis, Data Quality and Cleaning, Exploratory Data Analysis (EDA), Predictive Analytics, Feature Engineering
-- Technical Skills: SQL Proficiency, MySQL, Python, Java, C, C++, Advanced Excel
-- Database Management: Database Management Systems (DBMS), OLTP/OLAP, ETL Processes, Data Modeling, Data Warehousing
-- Machine Learning & AI: Supervised Learning, Unsupervised Learning, Model Evaluation, Deep Learning, Image Processing, Natural Language Processing (NLP), Text Mining, TfidfVectorizer, Neural networks - ANN, CNN
-- Business Intelligence: Business Intelligence (BI) Tools, Power BI, Power BI Query Editor
-- Development and Integration: APIs, Data Integration, Software Development Life Cycle (SDLC), Object-Oriented Programming (OOP), Computer Networks
-- Cloud Platforms: Google Cloud, Azure
-- Development Environments: Anaconda, Visual Studio Code (VS Code)
+- **Data Analysis**: Data Analysis, Data Interpretation, Data Visualization, Data Manipulation, Statistical Analysis, Data Quality and Cleaning, Exploratory Data Analysis (EDA), Predictive Analytics, Feature Engineering
+- **Technical Skills**: SQL Proficiency, MySQL, Python, Java, C, C++, Advanced Excel
+- **Database Management**: Database Management Systems (DBMS), OLTP/OLAP, ETL Processes, Data Modeling, Data Warehousing
+- **Machine Learning & AI**: Supervised Learning, Unsupervised Learning, Model Evaluation, Deep Learning, Image Processing, Natural Language Processing (NLP), Text Mining, TfidfVectorizer, Neural networks - ANN, CNN
+- **Business Intelligence**: Business Intelligence (BI) Tools, Power BI, Power BI Query Editor
+- **Development and Integration**: APIs, Data Integration, Software Development Life Cycle (SDLC), Object-Oriented Programming (OOP), Computer Networks
+- **Cloud Platforms**: Google Cloud, Azure
+- **Development Environments**: Anaconda, Visual Studio Code (VS Code)
 
 ## Projects
 
